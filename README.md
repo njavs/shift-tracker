@@ -2,7 +2,7 @@
 
 Instructions:
 1. Download repository
-2. Find your way to the repo via your terminal
+2. Find your way to the downloaded directory via your terminal
 3. Run `npm install` to install packages
 3. Run `npm start` to have the app up at http://localhost:3000. 
 
