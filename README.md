@@ -4,7 +4,9 @@ Instructions:
 1. Download repository
 2. Find your way to the downloaded directory via your terminal
 3. Run `npm install` to install packages
-3. Run `npm start` to have the app up at http://localhost:3000. 
+4. Run `npm start` to have the app up at http://localhost:3000
+5. Go to src/server and run `node server.js` to run the server
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
