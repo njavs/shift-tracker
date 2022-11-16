@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Shift Tracker (Created with Create React App)
+
+Instructions:
+1. Download repository
+2. Find your way to the repo via your terminal
+3. Run `npm install` to install packages
+3. Run `npm start` to have the app up at http://localhost:3000. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
